@@ -16,7 +16,7 @@
 </p>
 
 ## 🧾 Description
-   📖 Example of a search filter in a flatlist with ordering of results 🔍
+   🔐 Authentication example with react native using context api 👤
 
 ## 🖼 GIF 
 
