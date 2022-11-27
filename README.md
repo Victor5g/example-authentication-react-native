@@ -18,9 +18,7 @@
 ## 🧾 Description
    🔐 Authentication example with react native using context api 👤
 
-## 🖼 GIF 
-
-
+                                  
 ## ✨ Technologies 
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
