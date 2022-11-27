@@ -2,7 +2,7 @@
 <img alt="Icon" width='100' style' src="https://user-images.githubusercontent.com/51713169/204149125-2581ed0e-59a1-4fd7-ade5-1a1143cd9ed9.png">  
 </p>
 
-<h1 align="center">Authentication-React-Native</h1>
+<h1 align="center">Authentication</h1>
 
 <p align="center">
      <img alt="License" src="https://img.shields.io/static/v1?label=React-Native&message=0.68.2&color=202020&labelColor=008CCD">
